@@ -8,7 +8,7 @@ Add your Football Data API Key and Gemini API Key in config.py
 3. Run the Script
 python main.py
 
-Expected Output(example) :
+Example Output:
 
 Match: Real Madrid 2-1 Barcelona
 Scorers: Vinícius Jr., Lewandowski, Bellingham
