@@ -3,3 +3,12 @@ In command prompt or terminal:
 
 pip install requests google-generativeai
 
+                              -----------
+
+For obtaining API keys for Football stats: 
+
+Football-Data.org – https://www.football-data.org/ (Limited free access)
+API-Football (Free Tier Available) – https://www.api-football.com/
+SportMonks (Free Trial Available) – https://www.sportmonks.com/
+Football-API (Basic Free Plan) – https://football-api.com/
+MySportsFeeds – https://www.mysportsfeeds.com/ (Limited free plan
