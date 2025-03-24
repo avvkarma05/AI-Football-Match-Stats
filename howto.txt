@@ -1,0 +1,18 @@
+How to Run the Project
+1. Install Dependencies
+pip install requests google-generativeai
+  
+2. Set Up API Keys
+Add your Football Data API Key and Gemini API Key in config.py
+
+3. Run the Script
+python main.py
+
+Expected Output(example) :
+
+Match: Real Madrid 2-1 Barcelona
+Scorers: Vinícius Jr., Lewandowski, Bellingham
+Possession: Real Madrid (58%) - Barcelona (42%)
+Shots on Target: 7 - 4
+Fouls: 10 - 12
+Yellow Cards: 2 - 3
