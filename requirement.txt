@@ -1,0 +1,5 @@
+Before going ahead with the coding It is necessary to run the following
+In command prompt or terminal:
+
+pip install requests google-generativeai
+
